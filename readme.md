@@ -41,12 +41,11 @@ To maintain the vertical rhythm, it has been applied a **Typographic scale** as 
 
 Last but not least: the [Jekyll documentation](http://jekyllrb.com) is the best starting point! 
 
-## Author
+## Customized By
 
-### Jacopo Rabolini
+### Harshit Bansal
 
-- Web site: [www.jacoporabolini.com](http://www.jacoporabolini.com)
-- Google+: [+JacopoRabolini](https://plus.google.com/u/0/+JacopoRabolini/posts)
+- Web site: [https://linkedin.com/in/harshit-bansal/](https://linkedin.com/in/harshit-bansal/)
 
 ## License
 Emerald is released under [MIT License](license.md).
